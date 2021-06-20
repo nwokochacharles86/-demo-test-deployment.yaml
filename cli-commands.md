@@ -47,4 +47,4 @@ kubectl get deployment
 delete with config
 kubectl delete -f nginx-deployment.yaml
 #Metrics
-kubectl top The kubectl top command returns current CPU and memory usage for a cluster’s pods or nodes, or for a particular pod or node if specified.
+kubectl top The kubectl top command returns current CPU and memory usage for a cluster’s pods or nodes, or for a particular pod or node if specified..
